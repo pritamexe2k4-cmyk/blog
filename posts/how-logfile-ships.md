@@ -56,4 +56,4 @@ Notion is the calendar, not an importer. Keep the Editorial database in sync by 
 
 ## RSS
 
-`/feed.xml` is the feed. That is the only syndication for now.
+`/rss` is the feed. That is the only syndication for now.
